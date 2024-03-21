@@ -1,0 +1,56 @@
+20:45:14.774 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on continue
+11:27:19.013 [main] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+11:27:19.269 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+11:27:20.170 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+11:27:20.372 [main] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+11:27:20.486 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+11:27:20.625 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Email
+11:27:20.735 [main] INFO  testCases.TC001_AccountRegistrationtest - customer password
+11:27:23.953 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on the agreement
+11:27:26.998 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on continue
+11:43:53.635 [main] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+11:43:53.881 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+11:43:54.516 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+11:43:54.702 [main] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+11:43:54.838 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+11:43:54.966 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Email
+11:43:55.081 [main] INFO  testCases.TC001_AccountRegistrationtest - customer password
+11:43:59.309 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on the agreement
+11:44:02.378 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on continue
+11:44:07.782 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
+11:44:08.708 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
+11:44:09.150 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+11:44:09.823 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
+11:44:09.824 [main] INFO  testCases.TC002_LoginTest - Test case executed
+11:47:08.392 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
+11:47:09.323 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
+11:47:09.752 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+11:47:10.425 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
+11:47:10.426 [main] INFO  testCases.TC002_LoginTest - Test case executed
+11:47:16.186 [main] INFO  testCases.TC003_LoginDataDriven - **** Starting TC_003_LoginDDT *****
+11:47:17.115 [main] INFO  testCases.TC003_LoginDataDriven - clicked on the login button
+11:47:17.339 [main] INFO  testCases.TC003_LoginDataDriven - Insert Email ID
+11:47:17.499 [main] INFO  testCases.TC003_LoginDataDriven - Insert Password
+11:47:19.672 [main] INFO  testCases.TC003_LoginDataDriven - clicked on the Login after adding valid email and Password
+11:47:24.382 [main] INFO  testCases.TC003_LoginDataDriven - **** Starting TC_003_LoginDDT *****
+11:47:24.469 [main] INFO  testCases.TC003_LoginDataDriven - **** Starting TC_003_LoginDDT *****
+11:47:24.516 [main] INFO  testCases.TC003_LoginDataDriven - **** Starting TC_003_LoginDDT *****
+11:47:24.559 [main] INFO  testCases.TC003_LoginDataDriven - **** Starting TC_003_LoginDDT *****
+11:52:46.715 [main] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+11:52:47.014 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+11:52:47.839 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+11:52:48.014 [main] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+11:52:48.145 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+11:52:48.289 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Email
+11:52:48.399 [main] INFO  testCases.TC001_AccountRegistrationtest - customer password
+11:52:52.607 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on the agreement
+11:52:55.663 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on continue
+11:54:55.892 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
+11:54:56.976 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
+11:54:57.458 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+11:54:58.149 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
+11:54:58.150 [main] INFO  testCases.TC002_LoginTest - Test case executed
+11:55:22.115 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
+11:55:22.967 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
+11:55:23.383 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+11:55:24.039 [main] INFO  testCases.TC002_LoginTest - My Account text is validated

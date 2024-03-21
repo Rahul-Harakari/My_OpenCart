@@ -1,0 +1,50 @@
+17:47:27.066 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+17:47:27.262 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+17:47:27.409 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+17:47:29.920 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationtest - Test case failed
+17:47:33.421 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - Test Case Passed
+17:48:19.848 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+17:48:21.193 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+17:48:22.975 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+17:48:23.200 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+17:48:23.379 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+17:48:23.531 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+17:48:23.695 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+17:48:24.515 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+17:48:24.716 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+17:48:24.862 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+17:48:27.299 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationtest - Test case failed
+17:48:30.783 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - Test Case Passed
+17:48:50.898 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+17:48:51.550 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+17:48:53.166 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+17:48:53.346 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+17:48:53.376 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+17:48:53.651 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+17:48:53.925 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+17:48:54.463 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+17:48:54.629 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+17:48:54.770 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+17:48:57.709 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationtest - Test case failed
+17:49:00.728 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - Test Case Passed
+17:49:15.054 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+17:49:16.394 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+17:49:18.311 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+17:49:18.662 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+17:49:18.690 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+17:49:18.881 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+17:49:19.100 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+17:49:19.924 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+17:49:20.097 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+17:49:20.223 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+17:49:23.581 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationtest - Test case failed
+17:49:25.535 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - Test Case Passed
+17:49:53.801 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+17:49:55.478 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+17:49:57.754 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+17:49:58.152 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+17:49:58.174 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+17:49:58.424 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+17:49:58.540 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+17:49:59.395 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+17:49:59.562 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationtest - customer First Name

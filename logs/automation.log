@@ -1,0 +1,11 @@
+11:55:24.039 [main] INFO  testCases.TC002_LoginTest - Test case executed
+11:55:41.223 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
+11:55:42.196 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
+11:55:42.664 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+11:55:43.311 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
+11:55:43.311 [main] INFO  testCases.TC002_LoginTest - Test case executed
+11:56:26.588 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
+11:56:27.734 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
+11:56:28.148 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+11:56:28.820 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
+11:56:28.820 [main] INFO  testCases.TC002_LoginTest - Test case executed
