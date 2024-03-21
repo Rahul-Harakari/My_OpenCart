@@ -3,10 +3,12 @@ C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\pageObjects\BasePage.ja
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\pageObjects\HomePage.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\pageObjects\Loginpage.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\pageObjects\Myaccountpage.java
+C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\pageObjects\Search.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\testCases\Baseclass.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\testCases\TC001_AccountRegistrationtest.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\testCases\TC002_LoginTest.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\testCases\TC003_LoginDataDriven.java
+C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\testCases\TC004_Searchproduct.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\utilities\DataProviders.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\utilities\ExcelUtility.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\utilities\ExtentReportManager.java

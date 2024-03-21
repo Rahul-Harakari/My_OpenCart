@@ -1,11 +1,7 @@
-11:55:24.039 [main] INFO  testCases.TC002_LoginTest - Test case executed
-11:55:41.223 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
-11:55:42.196 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
-11:55:42.664 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
-11:55:43.311 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
-11:55:43.311 [main] INFO  testCases.TC002_LoginTest - Test case executed
-11:56:26.588 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
-11:56:27.734 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
-11:56:28.148 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
-11:56:28.820 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
-11:56:28.820 [main] INFO  testCases.TC002_LoginTest - Test case executed
+22:56:54.067 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+22:56:54.753 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
+22:56:54.753 [main] INFO  testCases.TC002_LoginTest - Test case executed
+22:56:57.879 [main] INFO  testCases.TC004_Searchproduct - *****Test case started******
+22:56:58.072 [main] INFO  testCases.TC004_Searchproduct - Iteam inserted in search box
+22:56:59.339 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
+22:56:59.387 [main] INFO  testCases.TC004_Searchproduct - Test cases executed
