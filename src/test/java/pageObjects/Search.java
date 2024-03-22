@@ -12,10 +12,15 @@ public class Search extends BasePage{
 		super(driver);
 		}
 
+	//Searching for valid product
+	
 	@FindBy(xpath="//input[@placeholder='Search']") WebElement field_Search;
 	@FindBy(xpath="//button[@class='btn btn-light btn-lg']") WebElement button_Search;
 	@FindBy(xpath="//*[@id=\"product-list\"]/div[2]/div/div[2]/div/h4/a") WebElement product_Text;
 	
+	//Searching for invalid product
+	
+	@FindBy(xpath="//*[@id=\"content\"]/p") WebElement noproduct_Text;
 	
 	public void searchBox(String iteam) {
 		field_Search.sendKeys(iteam);
@@ -33,5 +38,21 @@ public class Search extends BasePage{
 			return (false);
 		}
 	}
+	
+	
+	public boolean validatenoiteam() {
+	try {	
+		return noproduct_Text.isDisplayed();
+	}
+	catch(Exception e) {
+	return(false);
+	}
+	
+	}
+	
+	
+	
+	
+	
 	
 }

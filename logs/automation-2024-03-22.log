@@ -1,0 +1,56 @@
+22:56:54.067 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+22:56:54.753 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
+22:56:54.753 [main] INFO  testCases.TC002_LoginTest - Test case executed
+22:56:57.879 [main] INFO  testCases.TC004_Searchproduct - *****Test case started******
+22:56:58.072 [main] INFO  testCases.TC004_Searchproduct - Iteam inserted in search box
+22:56:59.339 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
+22:56:59.387 [main] INFO  testCases.TC004_Searchproduct - Test cases executed
+20:31:11.642 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
+20:31:12.985 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
+20:31:13.466 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+20:31:14.470 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
+20:31:14.471 [main] INFO  testCases.TC002_LoginTest - Test case executed
+20:31:18.326 [main] INFO  testCases.TC004_Searchproduct - *****Test case started******
+20:31:18.649 [main] INFO  testCases.TC004_Searchproduct - Iteam inserted in search box
+20:31:20.165 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
+20:31:20.233 [main] INFO  testCases.TC004_Searchproduct - Test cases executed
+20:31:20.255 [main] INFO  testCases.TC004_Searchproduct - *****Test case started for Serach - Invalid Iteam******
+20:31:20.390 [main] INFO  testCases.TC004_Searchproduct - Invalid iteam inserted
+20:31:21.659 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
+20:31:21.715 [main] INFO  testCases.TC004_Searchproduct - Test cases executed
+20:32:58.675 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
+20:32:59.878 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
+20:33:00.501 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+20:33:01.282 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
+20:33:01.282 [main] INFO  testCases.TC002_LoginTest - Test case executed
+20:33:04.865 [main] INFO  testCases.TC004_Searchproduct - *****Test case started******
+20:33:05.074 [main] INFO  testCases.TC004_Searchproduct - Iteam inserted in search box
+20:33:06.607 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
+20:33:06.678 [main] INFO  testCases.TC004_Searchproduct - Test cases executed
+20:33:06.687 [main] INFO  testCases.TC004_Searchproduct - *****Test case started for Serach - Invalid Iteam******
+20:33:06.872 [main] INFO  testCases.TC004_Searchproduct - Invalid iteam inserted
+20:33:08.632 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
+20:33:08.708 [main] INFO  testCases.TC004_Searchproduct - Test cases executed
+20:35:13.177 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
+20:35:14.236 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
+20:35:14.703 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+20:35:15.442 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
+20:35:15.443 [main] INFO  testCases.TC002_LoginTest - Test case executed
+20:35:19.147 [main] INFO  testCases.TC004_Searchproduct - *****Test case started for - Valid iteam******
+20:35:19.350 [main] INFO  testCases.TC004_Searchproduct - Iteam inserted in search box
+20:35:21.182 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
+20:35:21.244 [main] INFO  testCases.TC004_Searchproduct - Test cases executed for valid iteam
+20:35:21.250 [main] INFO  testCases.TC004_Searchproduct - *****Test case started for Serach - Invalid Iteam******
+20:35:21.416 [main] INFO  testCases.TC004_Searchproduct - Invalid iteam inserted
+20:35:22.672 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
+20:35:22.739 [main] INFO  testCases.TC004_Searchproduct - Test cases executed for invalid iteam
+20:41:15.044 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
+20:41:16.128 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
+20:41:16.622 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+20:41:17.438 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
+20:41:17.438 [main] INFO  testCases.TC002_LoginTest - Test case executed
+20:41:21.176 [main] INFO  testCases.TC004_Searchproduct - *****Test case started for - Valid iteam******
+20:41:21.379 [main] INFO  testCases.TC004_Searchproduct - Iteam inserted in search box
+20:41:22.817 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
+20:41:22.884 [main] INFO  testCases.TC004_Searchproduct - Test cases executed for valid iteam
+20:41:22.891 [main] INFO  testCases.TC004_Searchproduct - *****Test case started for Serach - Invalid Iteam******
