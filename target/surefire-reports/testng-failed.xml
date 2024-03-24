@@ -9,24 +9,17 @@
     <parameter name="browser" value="chrome"/>
     <groups>
       <run>
-        <include name="master"/>
+        <include name="sanity"/>
       </run>
     </groups>
     <classes>
-      <class name="testCases.TC001_AccountRegistrationtest">
+      <class name="testCases.TC005_AddToCart">
         <methods>
           <include name="setup"/>
-          <include name="verify_account_registration"/>
           <include name="teardown"/>
+          <include name="additeamtocart"/>
         </methods>
-      </class> <!-- testCases.TC001_AccountRegistrationtest -->
-      <class name="testCases.TC002_LoginTest">
-        <methods>
-          <include name="setup"/>
-          <include name="verifylogin"/>
-          <include name="teardown"/>
-        </methods>
-      </class> <!-- testCases.TC002_LoginTest -->
+      </class> <!-- testCases.TC005_AddToCart -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -1,4 +1,5 @@
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\pageObjects\AccountRegistrationPage.java
+C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\pageObjects\AddtoCart.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\pageObjects\BasePage.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\pageObjects\HomePage.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\pageObjects\Loginpage.java
@@ -9,6 +10,7 @@ C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\testCases\TC001_Account
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\testCases\TC002_LoginTest.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\testCases\TC003_LoginDataDriven.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\testCases\TC004_Searchproduct.java
+C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\testCases\TC005_AddToCart.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\utilities\DataProviders.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\utilities\ExcelUtility.java
 C:\Users\Dell\eclipse-workspace\Myopencart\src\test\java\utilities\ExtentReportManager.java
