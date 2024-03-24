@@ -1,24 +1,58 @@
-12:32:20.774 [main] INFO  testCases.TC005_AddToCart - *****Test case started for - Valid iteam******
-12:32:20.894 [main] INFO  testCases.TC005_AddToCart - Iteam inserted in search box
-12:32:22.206 [main] INFO  testCases.TC005_AddToCart - clicked on serach button
-12:35:10.009 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
-12:35:11.107 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
-12:35:11.514 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
-12:35:12.216 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
-12:35:12.217 [main] INFO  testCases.TC002_LoginTest - Test case executed
-12:35:15.414 [main] INFO  testCases.TC004_Searchproduct - *****Test case started for - Valid iteam******
-12:35:15.594 [main] INFO  testCases.TC004_Searchproduct - Iteam inserted in search box
-12:35:16.825 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
-12:35:16.880 [main] INFO  testCases.TC004_Searchproduct - Test cases executed for valid iteam
-12:35:16.887 [main] INFO  testCases.TC004_Searchproduct - *****Test case started for Serach - Invalid Iteam******
-12:35:17.044 [main] INFO  testCases.TC004_Searchproduct - Invalid iteam inserted
-12:35:18.159 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
-12:35:18.212 [main] INFO  testCases.TC004_Searchproduct - Test cases executed for invalid iteam
-12:35:21.558 [main] INFO  testCases.TC005_AddToCart - *** Login to the application ***
-12:35:22.524 [main] INFO  testCases.TC005_AddToCart - clicked on the login button
-12:35:22.922 [main] INFO  testCases.TC005_AddToCart - clicked on the Login after adding valid email and Password
-12:35:23.576 [main] INFO  testCases.TC005_AddToCart - My Account text is validated
-12:35:23.576 [main] INFO  testCases.TC005_AddToCart - Test case executed
-12:35:23.581 [main] INFO  testCases.TC005_AddToCart - *****Test case started for - Valid iteam******
-12:35:23.689 [main] INFO  testCases.TC005_AddToCart - Iteam inserted in search box
-12:35:25.348 [main] INFO  testCases.TC005_AddToCart - clicked on serach button
+23:11:47.895 [main] INFO  testCases.TC005_AddToCart - Test case executed
+23:11:47.925 [main] INFO  testCases.TC005_AddToCart - *****Test case started for - Valid iteam******
+23:11:48.023 [main] INFO  testCases.TC005_AddToCart - Iteam inserted in search box
+23:11:49.198 [main] INFO  testCases.TC005_AddToCart - clicked on serach button
+23:11:49.897 [main] INFO  testCases.TC005_AddToCart - clicked on the product
+23:11:50.017 [main] INFO  testCases.TC005_AddToCart - clicked on the Apply
+23:11:50.019 [main] INFO  testCases.TC005_AddToCart - Test case Executed
+23:19:11.971 [main] INFO  testCases.TC005_AddToCart - *** Login to the application ***
+23:19:13.023 [main] INFO  testCases.TC005_AddToCart - clicked on the login button
+23:19:13.455 [main] INFO  testCases.TC005_AddToCart - clicked on the Login after adding valid email and Password
+23:19:14.115 [main] INFO  testCases.TC005_AddToCart - My Account text is validated
+23:19:14.115 [main] INFO  testCases.TC005_AddToCart - Test case executed
+23:19:14.140 [main] INFO  testCases.TC005_AddToCart - *****Test case started for - Valid iteam******
+23:19:14.263 [main] INFO  testCases.TC005_AddToCart - Iteam inserted in search box
+23:19:15.363 [main] INFO  testCases.TC005_AddToCart - clicked on serach button
+23:19:16.013 [main] INFO  testCases.TC005_AddToCart - clicked on the product
+23:19:16.154 [main] INFO  testCases.TC005_AddToCart - clicked on the Apply
+23:19:16.293 [main] INFO  testCases.TC005_AddToCart - clicked on the Cart button
+23:19:16.402 [main] INFO  testCases.TC005_AddToCart - Test case Executed
+23:20:23.335 [main] INFO  testCases.TC005_AddToCart - *** Login to the application ***
+23:20:24.165 [main] INFO  testCases.TC005_AddToCart - clicked on the login button
+23:20:24.653 [main] INFO  testCases.TC005_AddToCart - clicked on the Login after adding valid email and Password
+23:20:25.355 [main] INFO  testCases.TC005_AddToCart - My Account text is validated
+23:20:25.355 [main] INFO  testCases.TC005_AddToCart - Test case executed
+23:20:25.373 [main] INFO  testCases.TC005_AddToCart - *****Test case started for - Valid iteam******
+23:20:25.469 [main] INFO  testCases.TC005_AddToCart - Iteam inserted in search box
+23:20:26.567 [main] INFO  testCases.TC005_AddToCart - clicked on serach button
+23:20:27.221 [main] INFO  testCases.TC005_AddToCart - clicked on the product
+23:20:27.365 [main] INFO  testCases.TC005_AddToCart - clicked on the Apply
+23:20:27.529 [main] INFO  testCases.TC005_AddToCart - clicked on the Cart button
+23:20:27.620 [main] INFO  testCases.TC005_AddToCart - The added iteam text is validated
+23:20:27.621 [main] INFO  testCases.TC005_AddToCart - Test case Executed
+23:22:06.314 [main] INFO  testCases.TC002_LoginTest - ***** Test Case for Login *****
+23:22:07.917 [main] INFO  testCases.TC002_LoginTest - clicked on the login button
+23:22:08.359 [main] INFO  testCases.TC002_LoginTest - clicked on the Login after adding valid email and Password
+23:22:09.311 [main] INFO  testCases.TC002_LoginTest - My Account text is validated
+23:22:09.312 [main] INFO  testCases.TC002_LoginTest - Test case executed
+23:22:12.743 [main] INFO  testCases.TC004_Searchproduct - *****Test case started for - Valid iteam******
+23:22:12.941 [main] INFO  testCases.TC004_Searchproduct - Iteam inserted in search box
+23:22:14.567 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
+23:22:14.675 [main] INFO  testCases.TC004_Searchproduct - Test cases executed for valid iteam
+23:22:14.680 [main] INFO  testCases.TC004_Searchproduct - *****Test case started for Serach - Invalid Iteam******
+23:22:14.858 [main] INFO  testCases.TC004_Searchproduct - Invalid iteam inserted
+23:22:16.180 [main] INFO  testCases.TC004_Searchproduct - clicked on serach button
+23:22:16.253 [main] INFO  testCases.TC004_Searchproduct - Test cases executed for invalid iteam
+23:22:20.828 [main] INFO  testCases.TC005_AddToCart - *** Login to the application ***
+23:22:21.829 [main] INFO  testCases.TC005_AddToCart - clicked on the login button
+23:22:22.304 [main] INFO  testCases.TC005_AddToCart - clicked on the Login after adding valid email and Password
+23:22:23.071 [main] INFO  testCases.TC005_AddToCart - My Account text is validated
+23:22:23.071 [main] INFO  testCases.TC005_AddToCart - Test case executed
+23:22:23.076 [main] INFO  testCases.TC005_AddToCart - *****Test case started for - Valid iteam******
+23:22:23.215 [main] INFO  testCases.TC005_AddToCart - Iteam inserted in search box
+23:22:25.047 [main] INFO  testCases.TC005_AddToCart - clicked on serach button
+23:22:25.808 [main] INFO  testCases.TC005_AddToCart - clicked on the product
+23:22:25.928 [main] INFO  testCases.TC005_AddToCart - clicked on the Apply
+23:22:26.094 [main] INFO  testCases.TC005_AddToCart - clicked on the Cart button
+23:22:26.181 [main] INFO  testCases.TC005_AddToCart - The added iteam text is validated
+23:22:26.184 [main] INFO  testCases.TC005_AddToCart - Test case Executed

@@ -25,7 +25,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -39,7 +39,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Suite" class="navigator-link">
-              <span class="suite-name border-failed">Suite</span>
+              <span class="suite-name border-passed">Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -92,21 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">6 methods, 1 failed,   5 passed</span>
-                  </li>
-                  <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
-                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
-                    </span>
-                    <div class="method-list-content failed suite-Suite">
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.TC005_AddToCart" class="method navigator-link" hash-for-method="additeamtocart">additeamtocart</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content failed suite-Suite -->
+                    <span class="method-stats">6 methods,   6 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -115,6 +101,11 @@
                       <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
                     </span>
                     <div class="method-list-content passed suite-Suite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC005_AddToCart" class="method navigator-link" hash-for-method="additeamtocart">additeamtocart</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="testCases.TC004_Searchproduct" class="method navigator-link" hash-for-method="invalidsearch">invalidsearch</a> <!-- method navigator-link -->
@@ -152,9 +143,9 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite" class="panel Suite">
-          <div class="suite-Suite-class-failed">
+          <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
+              <img src="passed.png"/>
               <span class="class-name">testCases.TC005_AddToCart</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -163,21 +154,8 @@
                   <a name="additeamtocart">
                   </a> <!-- additeamtocart -->
                   <span class="method-name">additeamtocart</span>
-                  <div class="stack-trace">java.lang.AssertionError: null
-	at testCases.TC005_AddToCart.additeamtocart(TC005_AddToCart.java:85)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 33 stack frames
-</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-failed -->
-          <div class="suite-Suite-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">testCases.TC005_AddToCart</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
                   <a name="logintoApp">
@@ -341,32 +319,32 @@ data.addRows(6);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'verifylogin')
 data.setCell(0, 2, 'testCases.TC002_LoginTest')
-data.setCell(0, 3, 2229);
+data.setCell(0, 3, 3017);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'logintoApp')
 data.setCell(1, 2, 'testCases.TC005_AddToCart')
-data.setCell(1, 3, 2019);
+data.setCell(1, 3, 2245);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'validateCart')
 data.setCell(2, 2, 'testCases.TC005_AddToCart')
-data.setCell(2, 3, 1771);
+data.setCell(2, 3, 1973);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'search')
 data.setCell(3, 2, 'testCases.TC004_Searchproduct')
-data.setCell(3, 3, 1468);
+data.setCell(3, 3, 1934);
 data.setCell(4, 0, 4)
 data.setCell(4, 1, 'invalidsearch')
 data.setCell(4, 2, 'testCases.TC004_Searchproduct')
-data.setCell(4, 3, 1328);
+data.setCell(4, 3, 1574);
 data.setCell(5, 0, 5)
 data.setCell(5, 1, 'additeamtocart')
 data.setCell(5, 2, 'testCases.TC005_AddToCart')
-data.setCell(5, 3, 1192);
+data.setCell(5, 3, 1123);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 10 seconds</span>
+              <span class="suite-total-time">Total running time: 11 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -406,55 +384,53 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">verifylogin</span>
-                <span class="method-start">4381 ms</span>
+                <span class="method-start">5247 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">teardown</span>
-                <span class="method-start">6643 ms</span>
+                <span class="method-start">8299 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC004_Searchproduct</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup(windows, chrome)</span>
-                <span class="method-start">6820 ms</span>
+                <span class="method-start">8602 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">search</span>
-                <span class="method-start">9806 ms</span>
+                <span class="method-start">11693 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">invalidsearch</span>
-                <span class="method-start">11277 ms</span>
+                <span class="method-start">13631 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">teardown</span>
-                <span class="method-start">12607 ms</span>
+                <span class="method-start">15207 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC005_AddToCart</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup(windows, chrome)</span>
-                <span class="method-start">12886 ms</span>
+                <span class="method-start">15459 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">logintoApp</span>
-                <span class="method-start">15950 ms</span>
+                <span class="method-start">19779 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">validateCart</span>
-                <span class="method-start">17971 ms</span>
+                <span class="method-start">22027 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
                 <span class="method-name">additeamtocart</span>
-                <span class="method-start">19745 ms</span>
+                <span class="method-start">24014 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">teardown</span>
-                <span class="method-start">21146 ms</span>
+                <span class="method-start">25139 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

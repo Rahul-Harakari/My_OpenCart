@@ -1,24 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-24T12:31:59 IST" name="Suite" finished-at="2024-03-24T12:32:23 IST" duration-ms="23982">
+  <suite started-at="2024-03-24T23:20:18 IST" name="Suite" finished-at="2024-03-24T23:20:27 IST" duration-ms="9264">
     <groups>
       <group name="sanity">
-        <method signature="TC002_LoginTest.verifylogin()[pri:0, instance:testCases.TC002_LoginTest@776aec5c]" name="verifylogin" class="testCases.TC002_LoginTest"/>
-        <method signature="TC004_Searchproduct.search()[pri:1, instance:testCases.TC004_Searchproduct@1d296da]" name="search" class="testCases.TC004_Searchproduct"/>
-        <method signature="TC005_AddToCart.logintoApp()[pri:1, instance:testCases.TC005_AddToCart@7c7a06ec]" name="logintoApp" class="testCases.TC005_AddToCart"/>
-        <method signature="TC004_Searchproduct.invalidsearch()[pri:2, instance:testCases.TC004_Searchproduct@1d296da]" name="invalidsearch" class="testCases.TC004_Searchproduct"/>
-        <method signature="TC005_AddToCart.validateCart()[pri:2, instance:testCases.TC005_AddToCart@7c7a06ec]" name="validateCart" class="testCases.TC005_AddToCart"/>
-        <method signature="TC005_AddToCart.additeamtocart()[pri:3, instance:testCases.TC005_AddToCart@7c7a06ec]" name="additeamtocart" class="testCases.TC005_AddToCart"/>
+        <method signature="TC005_AddToCart.logintoApp()[pri:1, instance:testCases.TC005_AddToCart@78691363]" name="logintoApp" class="testCases.TC005_AddToCart"/>
+        <method signature="TC005_AddToCart.validateCart()[pri:2, instance:testCases.TC005_AddToCart@78691363]" name="validateCart" class="testCases.TC005_AddToCart"/>
+        <method signature="TC005_AddToCart.additeamtocart()[pri:3, instance:testCases.TC005_AddToCart@78691363]" name="additeamtocart" class="testCases.TC005_AddToCart"/>
       </group> <!-- sanity -->
-      <group name="master">
-        <method signature="TC002_LoginTest.verifylogin()[pri:0, instance:testCases.TC002_LoginTest@776aec5c]" name="verifylogin" class="testCases.TC002_LoginTest"/>
-      </group> <!-- master -->
     </groups>
-    <test started-at="2024-03-24T12:31:59 IST" name="Test" finished-at="2024-03-24T12:32:23 IST" duration-ms="23982">
+    <test started-at="2024-03-24T23:20:18 IST" name="Test" finished-at="2024-03-24T23:20:27 IST" duration-ms="9264">
       <class name="testCases.TC005_AddToCart">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC005_AddToCart@7c7a06ec]" started-at="2024-03-24T12:32:15 IST" name="setup" finished-at="2024-03-24T12:32:18 IST" duration-ms="3439" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC005_AddToCart@78691363]" started-at="2024-03-24T23:20:18 IST" name="setup" finished-at="2024-03-24T23:20:23 IST" duration-ms="4598" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -34,119 +28,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="logintoApp()[pri:1, instance:testCases.TC005_AddToCart@7c7a06ec]" started-at="2024-03-24T12:32:18 IST" name="logintoApp" finished-at="2024-03-24T12:32:20 IST" duration-ms="2152" status="PASS">
+        <test-method signature="logintoApp()[pri:1, instance:testCases.TC005_AddToCart@78691363]" started-at="2024-03-24T23:20:23 IST" name="logintoApp" finished-at="2024-03-24T23:20:25 IST" duration-ms="2041" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintoApp -->
-        <test-method signature="validateCart()[pri:2, instance:testCases.TC005_AddToCart@7c7a06ec]" started-at="2024-03-24T12:32:20 IST" name="validateCart" finished-at="2024-03-24T12:32:22 IST" duration-ms="1434" status="PASS">
+        <test-method signature="validateCart()[pri:2, instance:testCases.TC005_AddToCart@78691363]" started-at="2024-03-24T23:20:25 IST" name="validateCart" finished-at="2024-03-24T23:20:26 IST" duration-ms="1196" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateCart -->
-        <test-method signature="additeamtocart()[pri:3, instance:testCases.TC005_AddToCart@7c7a06ec]" started-at="2024-03-24T12:32:22 IST" name="additeamtocart" finished-at="2024-03-24T12:32:23 IST" duration-ms="1152" status="FAIL">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[null]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: null
-at org.testng.Assert.fail(Assert.java:111)
-at org.testng.Assert.fail(Assert.java:116)
-at testCases.TC005_AddToCart.additeamtocart(TC005_AddToCart.java:85)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:819)
-at org.testng.TestRunner.run(TestRunner.java:619)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
-at org.testng.TestNG.runSuites(TestNG.java:1134)
-at org.testng.TestNG.run(TestNG.java:1101)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method signature="additeamtocart()[pri:3, instance:testCases.TC005_AddToCart@78691363]" started-at="2024-03-24T23:20:26 IST" name="additeamtocart" finished-at="2024-03-24T23:20:27 IST" duration-ms="1045" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- additeamtocart -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC005_AddToCart@7c7a06ec]" started-at="2024-03-24T12:32:23 IST" name="teardown" finished-at="2024-03-24T12:32:23 IST" duration-ms="234" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC005_AddToCart@78691363]" started-at="2024-03-24T23:20:27 IST" name="teardown" finished-at="2024-03-24T23:20:27 IST" duration-ms="268" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- testCases.TC005_AddToCart -->
-      <class name="testCases.TC002_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTest@776aec5c]" started-at="2024-03-24T12:32:00 IST" name="setup" finished-at="2024-03-24T12:32:05 IST" duration-ms="5147" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="verifylogin()[pri:0, instance:testCases.TC002_LoginTest@776aec5c]" started-at="2024-03-24T12:32:05 IST" name="verifylogin" finished-at="2024-03-24T12:32:07 IST" duration-ms="2282" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifylogin -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC002_LoginTest@776aec5c]" started-at="2024-03-24T12:32:07 IST" name="teardown" finished-at="2024-03-24T12:32:08 IST" duration-ms="385" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- testCases.TC002_LoginTest -->
-      <class name="testCases.TC004_Searchproduct">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_Searchproduct@1d296da]" started-at="2024-03-24T12:32:08 IST" name="setup" finished-at="2024-03-24T12:32:11 IST" duration-ms="3609" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="search()[pri:1, instance:testCases.TC004_Searchproduct@1d296da]" started-at="2024-03-24T12:32:11 IST" name="search" finished-at="2024-03-24T12:32:13 IST" duration-ms="1567" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- search -->
-        <test-method signature="invalidsearch()[pri:2, instance:testCases.TC004_Searchproduct@1d296da]" started-at="2024-03-24T12:32:13 IST" name="invalidsearch" finished-at="2024-03-24T12:32:14 IST" duration-ms="1421" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- invalidsearch -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC004_Searchproduct@1d296da]" started-at="2024-03-24T12:32:14 IST" name="teardown" finished-at="2024-03-24T12:32:15 IST" duration-ms="253" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- testCases.TC004_Searchproduct -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

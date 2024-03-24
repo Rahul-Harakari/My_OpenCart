@@ -69,10 +69,12 @@ public class TC005_AddToCart extends Baseclass {
 			public void additeamtocart() {
 			try {	
 		AddtoCart ac=new AddtoCart(driver);
-		ac.cartButton();
-		logger.info("clicked on the cart button");
-		ac.cartmainButton();
-		logger.info("clicked on the cart Main button");
+		ac.clickonProduct();
+		logger.info("clicked on the product");
+		ac.clickonApply();
+		logger.info("clicked on the Apply");
+		ac.clickon_Cart();
+		logger.info("clicked on the Cart button");
 		
 		boolean iteamStatus= ac.producttxt();
 		if(iteamStatus==true) {
@@ -81,10 +83,11 @@ public class TC005_AddToCart extends Baseclass {
 			else {
 				Assert.fail();
 			}
+			
 			}catch(Exception e) {
 				Assert.fail();
-			}
-		
+			} 
+		logger.info("The added iteam text is validated");
 		logger.info("Test case Executed");	
 		
 	
