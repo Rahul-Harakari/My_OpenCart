@@ -85,7 +85,7 @@ public class Baseclass {
 		driver.manage().deleteAllCookies();  // Delets all coockies
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10000));
 		//Launch the browser
-		driver.navigate().to(p.getProperty("appURL"));
+		driver.get("appURL");
 		driver.manage().window().maximize();
 	}
 

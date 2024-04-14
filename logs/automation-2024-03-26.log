@@ -1,0 +1,56 @@
+19:57:33.292 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+19:57:34.218 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+19:57:34.406 [main] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+19:57:34.555 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+19:57:34.687 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Email
+19:57:34.798 [main] INFO  testCases.TC001_AccountRegistrationtest - customer password
+19:57:39.116 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on the agreement
+19:57:42.197 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on continue
+20:01:37.185 [main] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+20:01:37.386 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+20:01:38.047 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+20:01:38.260 [main] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+20:01:38.405 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+20:01:38.550 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Email
+20:01:38.670 [main] INFO  testCases.TC001_AccountRegistrationtest - customer password
+20:01:42.940 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on the agreement
+20:01:45.993 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on continue
+20:08:38.843 [main] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+20:08:39.096 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+20:08:39.787 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+20:08:39.991 [main] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+20:08:40.133 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+20:08:40.265 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Email
+20:08:40.376 [main] INFO  testCases.TC001_AccountRegistrationtest - customer password
+20:08:44.606 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on the agreement
+20:08:47.682 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on continue
+20:12:08.459 [main] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+20:12:08.684 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+20:12:09.488 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+20:12:09.674 [main] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+20:12:09.802 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+20:12:09.939 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Email
+20:12:10.050 [main] INFO  testCases.TC001_AccountRegistrationtest - customer password
+20:12:11.306 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on the agreement
+20:12:11.353 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on continue
+20:13:54.160 [main] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+20:13:54.383 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+20:13:55.103 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+20:13:55.286 [main] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+20:13:55.420 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+20:13:55.554 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Email
+20:13:55.679 [main] INFO  testCases.TC001_AccountRegistrationtest - customer password
+20:13:55.680 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on the agreement
+20:13:55.750 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on continue
+20:15:12.323 [main] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+20:15:12.535 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+20:15:13.218 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My Register
+20:15:13.396 [main] INFO  testCases.TC001_AccountRegistrationtest - customer First Name
+20:15:13.534 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Last Name
+20:15:13.705 [main] INFO  testCases.TC001_AccountRegistrationtest - customer Email
+20:15:13.822 [main] INFO  testCases.TC001_AccountRegistrationtest - customer password
+20:15:13.823 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on the agreement
+20:15:13.882 [main] INFO  testCases.TC001_AccountRegistrationtest - clicked on continue
+20:26:34.138 [main] INFO  testCases.TC001_AccountRegistrationtest - ******Starting the Test******
+20:26:34.341 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My account
+20:26:35.023 [main] INFO  testCases.TC001_AccountRegistrationtest - click on My Register

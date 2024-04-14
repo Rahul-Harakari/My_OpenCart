@@ -5,13 +5,13 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC005_AddToCart">
+      <class name="testCases.TC001_AccountRegistrationtest">
         <methods>
           <include name="setup"/>
-          <include name="additeamtocart"/>
+          <include name="verify_account_registration"/>
           <include name="teardown"/>
         </methods>
-      </class> <!-- testCases.TC005_AddToCart -->
+      </class> <!-- testCases.TC001_AccountRegistrationtest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

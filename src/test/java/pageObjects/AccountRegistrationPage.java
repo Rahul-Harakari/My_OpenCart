@@ -26,7 +26,9 @@ public class AccountRegistrationPage extends BasePage {
 	
 	@FindBy(xpath="//input[@name='password']") WebElement inputpassword;
 	
-	@FindBy(xpath="//input[@name='agree']") WebElement nameagree;
+	@FindBy(xpath="//input[@id='input-newsletter']") WebElement newstellar;
+	
+	@FindBy(xpath="(//input[@name='agree'])[1]") WebElement nameagree;
 	
 	@FindBy(xpath="//button[@type='submit']") WebElement btncontinue;
 	
@@ -54,16 +56,33 @@ public void setpassword(String password) {
 	
 	inputpassword.sendKeys(password);
 }
+		
+
+public void setNewstellar() {
+    /*try {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        WebElement agreeCheckbox = wait.until(ExpectedConditions.visibilityOf(newstellar));
+        agreeCheckbox.click();
+        System.out.println("Clicked on Newstellar");
+    } catch (Exception e) {
+        System.out.println("Error clicking on Newstellar: " + e.getMessage());
+    }*/
 	
-public void setagreement() {
-	try {
-	WebDriverWait mywaita=new WebDriverWait (driver, Duration.ofSeconds(10000));
-	mywaita.until(ExpectedConditions.elementToBeClickable(nameagree)).click();
-	System.out.println("clicked on agreement");
-	}catch (Exception e) {
-		System.out.println(e.getMessage());
-	}
-}	
+	newstellar.click();
+}
+
+
+public void setAgreement() {
+    try {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        WebElement agreeCheckbox = wait.until(ExpectedConditions.visibilityOf(nameagree));
+        agreeCheckbox.click();
+        System.out.println("Clicked on agreement");
+    } catch (Exception e) {
+        System.out.println("Error clicking on agreement: " + e.getMessage());
+    }
+}
+
 
 public void clickContinue() {
 	//WebDriverWait mywaitb=new WebDriverWait (driver, Duration.ofSeconds(10000));  // Adding the explicit 

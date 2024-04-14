@@ -33,14 +33,17 @@ public class TC001_AccountRegistrationtest extends Baseclass{
 		
 		arg.setpassword(password);
 		logger.info("customer password");
-		Thread.sleep(3000);
-		arg.setagreement();
+		
+		arg.setNewstellar();
+		logger.info("clicked on the Newstellar");
+		
+		arg.setAgreement();
 		logger.info("clicked on the agreement");
-		Thread.sleep(3000);
+		
 		arg.clickContinue();
 		logger.info("clicked on continue");
 		
-		Thread.sleep(2000);
+		
 		// Getting stale element exception
 		String confmsg=arg.textvalidation();
 		Assert.assertEquals(confmsg, "Your Account Has Been Created!","Account creation failed");
